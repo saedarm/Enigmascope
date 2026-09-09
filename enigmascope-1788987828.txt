@@ -1,0 +1,14 @@
+Enigmascope session — 2026-09-09 21:03:48 UTC
+============================================
+Reflector   : B
+Rotors      : I II III   (left middle right)
+Ring setting: A A A
+Start pos   : A A A
+Plugboard   : AM FT
+End pos     : AAE
+
+Input  (plaintext): STRA
+Output (cipher)   : JKXO
+
+To verify: set any Enigma emulator to the settings above and type the
+input; the output should match exactly.
